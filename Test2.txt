@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is 7A1A-95BF
+
+ Directory of C:\Users\317667\OneDrive - Conneqt Business Solutions Limited\Desktop\My Project
+
+19-05-2024  00:10    <DIR>          .
+18-05-2024  22:49    <DIR>          ..
+19-05-2024  00:10                 0 Test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  278,945,783,808 bytes free
